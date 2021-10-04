@@ -1,2 +1,2 @@
-# Rhcsa Notes
-RHCSA Notes
+# Red Hat Certified System Administrator (RHCSA) Notes
+
