@@ -1,2 +1,2 @@
-# rhcsa-notes
+# Rhcsa Notes
 RHCSA Notes
