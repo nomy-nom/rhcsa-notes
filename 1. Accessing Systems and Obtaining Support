@@ -1,1 +1,11 @@
 # 1. Accessing Systems and Obtaining Support
+### Guided Exercise: Configuring SSH Key-based Authentication
+- ssh: ssh *user@server*
+- change user: su - *user*
+- generate ssh keys (with paraphrase): ssh-keygen -f *location*  (optional if default location)
+-  Send public key to *user@server*): ssh-copy-id -i *location* (optional if default location) *user@server*
+- execute command remotely: ssh -i *location* (optional if default location) operator1@servera *command ex. hostname*
+- -f vs -i
+
+### Guided Exercise: Getting Help from Red Hat Customer Portal
+- systemctl status/start/stop *system ex. jboss*
